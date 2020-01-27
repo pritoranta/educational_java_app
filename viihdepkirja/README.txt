@@ -3,6 +3,6 @@ Kurssin luennoitsijana toimi Vesa Lappalainen.
 
 Työn pääpaino oli ohjelman rakenteessa, koodauskäytänteissä ja hyvissä testeissä.
 Tämän voi koodista nähdä, vaikka ohjelmaa ei enää saisi toimimaan.
-/kuvat-kansiossa on malli ohjelman tietorakenteesta.
+/kuvat/vpk_rakennev2.png on malli ohjelman tietorakenteesta.
 
 Ohjelma koodattiin Eclipse-ympäristössä.
