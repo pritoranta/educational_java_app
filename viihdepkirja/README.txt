@@ -1,6 +1,7 @@
 /FIN
 Graafista käyttöliittymää käyttävä Java-sovellus.
-Sovelluksen avulla luodaan, muokataan, tallennetaan ja avataan uudestaan muistiinpanoja/merkintöjä eri kohteista, kuten elokuvista ja peleistä.
+Sovelluksen avulla luodaan, muokataan, tallennetaan ja avataan uudestaan muistiinpanoja/merkintöjä eri kohteista,
+kuten elokuvista ja peleistä.
 Grafiikat: JavaFX
 
 Tämä projekti tehtiin parityönä keväällä 2019 osana Jyväskylän Yliopiston Ohjelmointi 2-kurssia.
