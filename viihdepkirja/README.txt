@@ -2,6 +2,9 @@
 Graafista käyttöliittymää käyttävä Java-sovellus.
 Sovelluksen avulla luodaan, muokataan, tallennetaan ja avataan uudestaan muistiinpanoja/merkintöjä eri kohteista,
 kuten elokuvista ja peleistä.
+Kohteita voi olla monta ja niihin liittyy omien tietojen lisäksi tageja ja tyyppejä,
+joiden avulla niitä voidaan kategorisoida ja lajitella.
+
 Grafiikat: JavaFX
 
 Tämä projekti tehtiin parityönä keväällä 2019 osana Jyväskylän Yliopiston Ohjelmointi 2-kurssia.
