@@ -1,7 +1,7 @@
 /FIN
 Graafista käyttöliittymää käyttävä Java-sovellus. Grafiikat: JavaFX
 
-Tämä projekti tehtiin parityönä keväällä 2019 osana Ohjelmointi 2-kurssia. Parinani oli Iisakki Säkkinen.
+Tämä projekti tehtiin parityönä keväällä 2019 osana Jyväskylän Yliopiston Ohjelmointi 2-kurssia. Parinani oli Iisakki Säkkinen.
 Kurssin luennoitsijana toimi Vesa Lappalainen.
 
 Työn pääpaino oli ohjelman rakenteessa, koodauskäytänteissä ja hyvissä testeissä.
